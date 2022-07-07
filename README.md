@@ -1,4 +1,4 @@
-# flutter_application_3
+# Flutter Animations
 
 A new Flutter project.
 
